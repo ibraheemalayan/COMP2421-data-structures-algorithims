@@ -405,7 +405,8 @@ void insert_student(StudentObject *new_obj)
             current->next = new_node_ptr;
             added = 1;
             break;
-        }
+        }2
+        
 
         current = current->next;
     }
