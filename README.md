@@ -18,7 +18,7 @@
 Data type and structures, abstract data types and encapsulation, recursion, proof of correctness of algorithms. Complexity of algorithms (BigO). Linked lists, stacks, queues, trees, binary trees; heap, hashing, sorting and searching, graphs, traversing, shortest path, and file organization. Engineering related applications. Graph theory, dynamic programming. (4 credit hours: 4 lectures)
 
 ### Course Instuctor
-[Dr. Ahmed Abusnaina](aabusnaina@birzeit.edu)
+[Dr. Ahmed Abusnaina](mailto:aabusnaina@birzeit.edu)
 
 ### Author
 Website: [Ibraheem Alyan](https://www.ibraheemalyan.dev/)    
